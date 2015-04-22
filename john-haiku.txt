@@ -1,4 +1,4 @@
-git is the rad 
+git is something else 
 if you know how to fork it
 make changes for good
 Added foruth line
