@@ -1,1 +1,2 @@
 git is the coolest
+if you know how to fork it
